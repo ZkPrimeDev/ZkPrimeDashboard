@@ -1,2 +1,2 @@
 # ZkPrimeDashboard
-dashboard for setting & monitoring
+This repository is ONLY the dashboard UI for developers
