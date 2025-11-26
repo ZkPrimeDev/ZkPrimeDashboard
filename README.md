@@ -1,2 +1,2 @@
 # ZkPrimeDashboard
-dashboard for setting dan monitoring
+dashboard for setting & monitoring
